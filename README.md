@@ -1,8 +1,5 @@
 # Nubia Z18 Mini Vs Nubia Mini 5G
 
-
-## Configuración
-
 | Model               | Nubia Z18 Mini                             | Nubia Mini 5G            |
 | ------------------- | -------------------------------------------| -------------------------
 | Render              | <img src="https://github.com/daviiid99/Z18VsTP1803/blob/main/TP1803.png"> | <img src="https://github.com/daviiid99/Z18VsTP1803/blob/main/TP1803.png">|
